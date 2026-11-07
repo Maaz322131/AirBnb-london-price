@@ -1,0 +1,21 @@
+{
+  "best_model": "Gradient Boosting",
+  "cv": {
+    "Ridge Regression": {
+      "mean_r2": 0.680437292009837,
+      "std_r2": 0.0030342834376630057
+    },
+    "Random Forest": {
+      "mean_r2": 0.7600358804953004,
+      "std_r2": 0.003933872459605851
+    },
+    "Gradient Boosting": {
+      "mean_r2": 0.7685077730906131,
+      "std_r2": 0.005560783286536591
+    }
+  },
+  "test_mae": 54.53478698587959,
+  "test_rmse": 95.07046631949416,
+  "test_r2": 0.651169698619652,
+  "median_price": 172.0
+}

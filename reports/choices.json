@@ -1,0 +1,174 @@
+{
+  "room_type": [
+    "Entire home/apt",
+    "Hotel room",
+    "Private room",
+    "Shared room"
+  ],
+  "property_type": [
+    "Entire rental unit",
+    "Private room in home",
+    "Private room in rental unit",
+    "Entire home",
+    "Entire condo",
+    "Private room in condo",
+    "Entire serviced apartment",
+    "Room in hotel",
+    "Private room in townhouse",
+    "Entire townhouse",
+    "Private room in bed and breakfast",
+    "Private room in guesthouse",
+    "Entire guesthouse",
+    "Entire loft",
+    "Room in boutique hotel",
+    "Private room in guest suite",
+    "Entire guest suite",
+    "Room in aparthotel",
+    "Private room in loft",
+    "Private room in serviced apartment",
+    "Shared room in hostel",
+    "Entire place",
+    "Private room",
+    "Boat",
+    "Entire cabin"
+  ],
+  "neighbourhoods": {
+    "Barking and Dagenham": {
+      "latitude": 51.5412,
+      "longitude": 0.12476
+    },
+    "Barnet": {
+      "latitude": 51.5936,
+      "longitude": -0.20352
+    },
+    "Bexley": {
+      "latitude": 51.47058,
+      "longitude": 0.13812
+    },
+    "Brent": {
+      "latitude": 51.54974,
+      "longitude": -0.24184
+    },
+    "Bromley": {
+      "latitude": 51.40582,
+      "longitude": 0.01646
+    },
+    "Camden": {
+      "latitude": 51.53318,
+      "longitude": -0.13707
+    },
+    "City of London": {
+      "latitude": 51.51414,
+      "longitude": -0.08931
+    },
+    "Croydon": {
+      "latitude": 51.38215,
+      "longitude": -0.09624
+    },
+    "Ealing": {
+      "latitude": 51.51296,
+      "longitude": -0.29574
+    },
+    "Enfield": {
+      "latitude": 51.63731,
+      "longitude": -0.08099
+    },
+    "Greenwich": {
+      "latitude": 51.48515,
+      "longitude": 0.05028
+    },
+    "Hackney": {
+      "latitude": 51.5453,
+      "longitude": -0.07239
+    },
+    "Hammersmith and Fulham": {
+      "latitude": 51.48976,
+      "longitude": -0.21264
+    },
+    "Haringey": {
+      "latitude": 51.58769,
+      "longitude": -0.09966
+    },
+    "Harrow": {
+      "latitude": 51.58826,
+      "longitude": -0.33972
+    },
+    "Havering": {
+      "latitude": 51.57158,
+      "longitude": 0.19288
+    },
+    "Hillingdon": {
+      "latitude": 51.52254,
+      "longitude": -0.44802
+    },
+    "Hounslow": {
+      "latitude": 51.48032,
+      "longitude": -0.33284
+    },
+    "Islington": {
+      "latitude": 51.54097,
+      "longitude": -0.10905
+    },
+    "Kensington and Chelsea": {
+      "latitude": 51.49536,
+      "longitude": -0.19061
+    },
+    "Kingston upon Thames": {
+      "latitude": 51.40497,
+      "longitude": -0.29176
+    },
+    "Lambeth": {
+      "latitude": 51.46857,
+      "longitude": -0.11854
+    },
+    "Lewisham": {
+      "latitude": 51.45641,
+      "longitude": -0.03135
+    },
+    "Merton": {
+      "latitude": 51.41526,
+      "longitude": -0.19773
+    },
+    "Newham": {
+      "latitude": 51.52544,
+      "longitude": 0.02022
+    },
+    "Redbridge": {
+      "latitude": 51.57348,
+      "longitude": 0.07006
+    },
+    "Richmond upon Thames": {
+      "latitude": 51.45844,
+      "longitude": -0.30031
+    },
+    "Southwark": {
+      "latitude": 51.49252,
+      "longitude": -0.08204
+    },
+    "Sutton": {
+      "latitude": 51.36597,
+      "longitude": -0.18925
+    },
+    "Tower Hamlets": {
+      "latitude": 51.51653,
+      "longitude": -0.04987
+    },
+    "Waltham Forest": {
+      "latitude": 51.57658,
+      "longitude": -0.01086
+    },
+    "Wandsworth": {
+      "latitude": 51.46051,
+      "longitude": -0.17048
+    },
+    "Westminster": {
+      "latitude": 51.51507,
+      "longitude": -0.16212
+    }
+  },
+  "defaults": {
+    "number_of_reviews": 8.0,
+    "review_scores_rating": 4.82,
+    "availability_365": 255.0
+  }
+}
